@@ -1,0 +1,46 @@
+npm - runs JavaScript (Node) applications
+  Node Package Manager
+  npm install <package name>
+  npm start
+
+React
+  component - reusable UI element
+  props - data inherited from a parent component
+  ref - connects the UI element to the logic in the rest of the component file
+  render - React lifecycle method (called on page load, and after state changes) that renders elements
+  state - temporary UI page data
+  unidirectional flow of data
+
+  Git
+    .gitignore
+    git add <filenames to add>
+    git clone <repo url>
+    git commit -m <message/title for commit>
+    git pull
+    git push
+    git stash
+    git stash apply
+
+Misc
+  services
+  this
+
+*********
+
+ORM = Object Relationship Mapper
+
+schema
+    tables
+        columns
+
+Promises
+    async / await
+
+JavaScript frameworks for building web applications / server-side
+    Express.js
+    Koa.js
+
+JavaScript frameworks for building UIs
+    React.js
+    Angular.js
+    Vue.js
